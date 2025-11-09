@@ -11,7 +11,8 @@
   <li>Discord server: https://discord.gg/5g3JzfbMjv</li>
 </ul>
 
-
+<!--![Giulio-Virtual-World GitHub status](https://github-readme-stats.vercel.app/api/?username=Giulio-Virtual-World&count_private=true&show_icons=true&theme=dark)-->
+![Giulio-Virtual-World most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Giulio-Virtual-World&theme=dark&layout=compact)
 
 
 
